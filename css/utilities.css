@@ -238,3 +238,15 @@
 .p-5 {
   padding: 4rem;
 }
+
+.social .fa-discord:hover {
+  color: #5865F2;
+}
+
+.social .fa-github:hover {
+  color: #774cb8;
+}
+
+.social .fa-youtube:hover {
+  color: rgb(207, 24, 24);
+}
